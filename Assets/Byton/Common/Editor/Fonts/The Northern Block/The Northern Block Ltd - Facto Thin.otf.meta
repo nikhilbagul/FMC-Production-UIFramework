@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: bf7f5d72cbeee44568c615e2c57aeba0
+timeCreated: 1502381843
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Facto
+  fontNames:
+  - Facto
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 61d97b0e2bcda404b83001bb9bbbc52a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

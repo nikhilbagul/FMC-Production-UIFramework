@@ -1,0 +1,27 @@
+*TextGroup : ID, fontsize
+*Text : ID, group, text
+
+TextGroup : textGroup1, 18
+TextGroup : textGroup2, 30
+
+Text : t1, textGroup1, hello
+Text : t2, textGroup1, bye byesss
+Text : t3, textGroup2, whats up
+Text : t4, textGroup2, world world
+
+*ButtonGroup : ID, xSize, ySize, color, fontSize
+*Button : ID, group, clickEvent, text
+
+ButtonGroup : buttonGroup1, 100, 100, green, 20
+ButtonGroup : buttonGroup2, 50, 50, red, 20
+
+Button : b1, buttonGroup1, p2Toggle, Toggle
+Button : b2, buttonGroup2, p1Toggle, Toggle
+Button : b3, buttonGroup1, p1Open, Open
+Button : b4, buttonGroup2, p1Close, Close
+
+*Image : ID, color
+
+Image : i1, green
+Image : i2, red
+

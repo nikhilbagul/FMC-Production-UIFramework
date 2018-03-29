@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72fb5480ea3af70458d43df8464b132e, type: 3}
+  m_Name: tk2dSystem
+  m_EditorClassIdentifier: 
+  allResourceEntries:
+  - resourceGUID: 6b320d90b72df4a888b8c24c85442306
+    assetName: Common@4x
+    assetGUID: 993d01e42f20748ef917694c5d66b798
+  - resourceGUID: 379b0ba727d5c44338b060a2c4ff493e
+    assetName: Common@2x
+    assetGUID: 56410c26d3b734d7e8894a7ff4d16d2a
+  - resourceGUID: cc5e0268f5bd44dca90f07715db3baf7
+    assetName: Common@1x
+    assetGUID: d73706efdf03c4a32a1db814121fd8fb
+  - resourceGUID: d0e52b7e5d8a84d6d8d3ff7489374da9
+    assetName: Common Compressed@4x
+    assetGUID: f70b6bed84fc74a1d8ea3d8d6d323946
+  - resourceGUID: 0dcfdcdf53e7d42d6905d84e6037ee06
+    assetName: Common Compressed@2x
+    assetGUID: 84f73903f81524a59b838e1362a568c1
+  - resourceGUID: 782fa29011d2649ea833bde0a7a1d95a
+    assetName: Common Compressed@1x
+    assetGUID: f0ffda6abb11440d5843b384c7f2f46d

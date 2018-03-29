@@ -1,0 +1,1 @@
+{"xPos":100,"yPos":0,"minValue":0,"maxValue":1,"eventToUse":""}
